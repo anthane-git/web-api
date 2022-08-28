@@ -1,0 +1,17 @@
+# Config
+.vscode/
+
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log
+
+# Builds
+dist/
+build/
+
+# Cache
+.cache/
+.tmp/
+data/
